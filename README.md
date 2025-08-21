@@ -50,8 +50,3 @@ The notebook includes:
 - **ROC curves** comparing models’ ability to distinguish between healthy and sick patients.
 - **Confusion matrices** to inspect misclassifications.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
